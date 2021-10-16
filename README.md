@@ -1,3 +1,3 @@
-# cp10
-Componente práctico clase 10 ciclo 3 MisionTIC
-Crear entorno, instalar flask, flask-wtf, email_validator
+# cp13
+Componente práctico clase 13 ciclo 3 MisionTIC
+Principios de programación Web Segura
